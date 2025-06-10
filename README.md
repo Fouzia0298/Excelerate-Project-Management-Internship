@@ -20,19 +20,19 @@ excelerate-project-management-internship/
 ├── week-1/
 │   ├── Week_1_deliverable.pdf
 │   ├── team-charter.pdf
-│   └── README.md       ← Week 1 Summary
+│   └── Week 1 Summary.md       
 │
 ├── week-2/
 │   ├── Week_2_deliverable.pdf
-│   └── README.md       ← Week 2 Summary
+│   └── Week 2 Summary.md      
 │
 ├── week-3/
 │   ├── Week_3_deliverable.pdf
-│   └── README.md       ← Week 3 Summary
+│   └── Week 3 Summary.md       
 │
 ├── week-4/
 │   ├── final-presentation.pdf
-│   └── README.md       ← Week 4 Summary
+│   └── Week 4 Summary.md       
 │
 └── README.md           ← Main Project Overview
 ```
